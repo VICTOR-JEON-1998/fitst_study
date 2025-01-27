@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart'
+import 'package:flutter/material.dart';
 
 //주 색상
 const PRIMARY_COLOR = Color(0xFF22A45D);
